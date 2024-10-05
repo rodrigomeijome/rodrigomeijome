@@ -16,4 +16,4 @@ I am currently in my third year of **Computer Engineering** at the University of
 ## Get in touch
 Feel free to reach out if you'd like to chat about tech, motorcycles, football, or anything else!
 
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](https://www.linkedin.com/in/rodrigo-méijome-quintana-92a623299/) | [GitHub](https://github.com/rodrigomeijome)
