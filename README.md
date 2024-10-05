@@ -1,4 +1,4 @@
-# Hi, I'm Rodrigo Meijome Quintana 👋
+# Hi, I'm Rodrigo Meijome 👋
 
 I am currently in my third year of **Computer Engineering** at the University of A Coruña. Passionate about technology, I'm diving deep into areas like **software development**, **cloud computing**, and **systems engineering**.
 
